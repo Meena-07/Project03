@@ -12,4 +12,8 @@ public class Education {
 		System.out.println("PG Fee is Rs.1Lakh");
 
 	}
+	public void phd()
+	{
+		System.out.println("Fee Details");
+	}
 }
