@@ -16,4 +16,9 @@ public class Education {
 	{
 		System.out.println("Fee Details");
 	}
+	
+	public void branchFacilities()
+	{
+		System.out.println("Facilities");
+	}
 }
