@@ -28,4 +28,7 @@ public class Education {
 	{
 		System.out.println("Facilities");
 	}
+	public static void main(String[] args) {
+		
+	}
 }
