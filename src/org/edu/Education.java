@@ -23,4 +23,9 @@ public class Education {
 		System.out.println("Branches");
 
 	}
+	
+	public void branchFacilities()
+	{
+		System.out.println("Facilities");
+	}
 }
