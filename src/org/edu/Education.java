@@ -15,5 +15,12 @@ public class Education {
 	public void phd()
 	{
 		System.out.println("Fee Details");
+		
+	}
+	
+	public void collegeBranch() {
+		// TODO Auto-generated method stub
+		System.out.println("Branches");
+
 	}
 }
