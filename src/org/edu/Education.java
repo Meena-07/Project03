@@ -28,4 +28,8 @@ public class Education {
 	{
 		System.out.println("Facilities");
 	}
+	public void m1()
+	{
+		
+	}
 }
